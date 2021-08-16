@@ -19,7 +19,7 @@ www.lowepro.com
 www.matcon-corp.com
 
 
-(https://github-readme-stats.vercel.app/api?username=chrisungarro)](https://github.com/chrisungarro/github-readme-stats)
+
 
 
 <!---
