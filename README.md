@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...windows OS, LINUX and open-source software
 - 🌱 I’m currently learning ... Python/Django
 - 💞️ I’m looking to collaborate on ...remote jobs
-- 📫 How to reach me ...chrisungarro@gmail.com
+- 📫 How to reach me ...chrisungarro@gmail.com | manassehcb@hotmail.com
 
 Some of my Website Design Projects
 https://www.icelandbeach.com/
