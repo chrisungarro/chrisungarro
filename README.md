@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisungarro a confident and reliable IT Trainer,Website designer and Support Specialist
+- 👋 Hi, I’m @chrisungarro a confident and reliable IT Trainer,Website designer and IT Support Specialist
 - 👀 I’m interested in ...windows OS, LINUX and open-source software
 - 🌱 I’m currently learning ... Python/Django
 - 💞️ I’m looking to collaborate on ...remote jobs
