@@ -5,7 +5,7 @@
 - 📫 How to reach me ...chrisungarro@gmail.com | manassehcb@hotmail.com
 
 Some of my Website Design Projects
-https://www.icelandbeach.com/
+jirehjanetade.com
 https://www.itmannconsulting.com
 http://www.iodnigeria.org/
 https://www.cleannigeria.org/
