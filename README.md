@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @chrisungarro a confident and reliable IT Trainer,Website designer and IT Support Specialist
-- 👀 I’m interested in ...windows OS, LINUX and open-source software
-- 🌱 I’m currently learning ... Python/Django
-- 💞️ I’m looking to collaborate on ...remote jobs
-- 📫 How to reach me ...chrisungarro@gmail.com | manassehcb@hotmail.com
+Hi there 👋
+
+I'm a passionate IT professional with a robust skill set in training, web design, and technical support. My expertise spans across various operating systems and platforms, including Windows OS, LINUX, and Azure. I have a keen interest in open-source software and love to explore innovative solutions in the tech world.
+
+Feel free to reach out if you're looking for collaboration or need assistance in IT training and support.
+
+🔹 IT Trainer| Empowering individuals with the knowledge to succeed in the tech industry.
+🔹 Website Designer | Crafting engaging and user-friendly digital experiences.
+🔹 IT Support Specialist | Providing reliable solutions for complex technical challenges.
+🔹 Tech Enthusiast | Exploring the vast potential of open-source software and cloud technologies.
+
 
 Some of my Website Design Projects
 www.jirehjanetade.com
