@@ -1,13 +1,17 @@
 Hi there 👋
 
-I'm a passionate IT professional with a robust skill set in training, web design, and technical support. My expertise spans across various operating systems and platforms, including Windows OS, LINUX, and Azure. I have a keen interest in open-source software and love to explore innovative solutions in the tech world.
+I'm a driven IT professional passionate about knowledge, design, and problem-solving. With expertise in training, web design, and technical support, I help individuals and businesses thrive in the digital world.
+Skills & Services:
+•	IT Skills Bootcamp: Equip yourself for tech success with my engaging training programs covering Windows, Linux, Azure, and essential Microsoft Office applications like Word, Excel, and PowerPoint. Master the skills you need to thrive in today's digital world.
+•	Crafting User-Centric Websites: I build beautiful, functional websites that drive engagement and results, ensuring seamless integration with Microsoft Office tools.
+•	Crafting User-Centric Websites: I build beautiful, functional websites that drive engagement and results.
+•	Solving Tech Challenges: I provide reliable support, tackling complex issues and delivering practical solutions.
+•	Exploring Tech Horizons: I actively embrace open-source software and cloud technologies, seeking innovative solutions for tomorrow's challenges.
+Connect with me!
+•	Website: 
+•	LinkedIn: https://www.linkedin.com/in/manassehcb
+•	Email: manassecb@hotmail.com
 
-Feel free to reach out if you're looking for collaboration or need assistance in IT training and support.
-
-🔹 IT Trainer| Empowering individuals with the knowledge to succeed in the tech industry.
-🔹 Website Designer | Crafting engaging and user-friendly digital experiences.
-🔹 IT Support Specialist | Providing reliable solutions for complex technical challenges.
-🔹 Tech Enthusiast | Exploring the vast potential of open-source software and cloud technologies.
 
 
 Some of my Website Design Projects
@@ -23,6 +27,8 @@ www.muscleandstrength.com
 www.manteaux.com
 www.lowepro.com
 www.matcon-corp.com
+https://klevercomms.com/
+https://afkingservices.com/
 
 
 
