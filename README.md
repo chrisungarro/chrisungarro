@@ -1,7 +1,9 @@
 Hi there 👋
 
 I'm a driven IT professional passionate about knowledge, design, and problem-solving. With expertise in training, web design, and technical support, I help individuals and businesses thrive in the digital world.
+
 Skills & Services:
+
 •	IT Skills Bootcamp: Equip yourself for tech success with my engaging training programs covering Windows, Linux, Azure, and essential Microsoft Office applications like Word, Excel, and PowerPoint. Master the skills you need to thrive in today's digital world.
 •	Crafting User-Centric Websites: I build beautiful, functional websites that drive engagement and results, ensuring seamless integration with Microsoft Office tools.
 •	Crafting User-Centric Websites: I build beautiful, functional websites that drive engagement and results.
