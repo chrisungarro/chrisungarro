@@ -8,6 +8,7 @@ Skills & Services:
 •	Solving Tech Challenges: I provide reliable support, tackling complex issues and delivering practical solutions.
 •	Exploring Tech Horizons: I actively embrace open-source software and cloud technologies, seeking innovative solutions for tomorrow's challenges.
 Connect with me!
+
 •	Website: 
 •	LinkedIn: https://www.linkedin.com/in/manassehcb
 •	Email: manassecb@hotmail.com
